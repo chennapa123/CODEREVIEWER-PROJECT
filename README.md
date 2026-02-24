@@ -127,4 +127,4 @@ All configuration is managed via `instance/config.py` and environment variables.
 
 ---
 
-For questions or support, please open an issue or contact the maintainer. 
+For questions or support, please open an issue or contact me.
